@@ -175,7 +175,6 @@ while True:
                         clickTime = time.time()
 
                         key = button.text
-
                         if key == "SPACE":
 
                             keyboard.press(" ")
